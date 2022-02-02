@@ -16,7 +16,7 @@ while True:
         elif number % 3 != 0:
             print("Need less")
             continue
-        print("Exactly!")
-        print("Sum", s)
+        print("Exactly!!!")
         break
         
+print("MAGIC")
