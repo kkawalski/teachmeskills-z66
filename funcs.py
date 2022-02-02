@@ -13,5 +13,7 @@ def factorial(number: int = 5) -> int:
         mul *= i
     return mul
 
+print(factorial(7))
+
 x = randint(1,5)
 print(x)
